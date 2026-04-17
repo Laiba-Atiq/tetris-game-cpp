@@ -1,7 +1,3 @@
-Here’s your **final clean README** — same style as your Ping Pong one, but **short, focused, and only important content**. You can **copy-paste directly**:
-
----
-
 # 🧩 Tetris Game in C++ with Raylib
 
 A classic **Tetris game** implemented in **C++** using the **Raylib** library. This project demonstrates core game development concepts including grid logic, collision detection, and multimedia integration.
@@ -118,9 +114,3 @@ GitHub: [https://github.com/Laiba-Atiq](https://github.com/Laiba-Atiq)
 
 ---
 
-If you want to slightly boost marks, next step would be adding:
-
-* Controls section (very quick)
-* One screenshot or GIF
-
-But this version is already **clean, professional, and submission-ready**.
