@@ -1,4 +1,4 @@
-# 🧩 Tetris Game in C++ with Raylib
+# Tetris Game in C++ with Raylib
 
 A classic **Tetris game** implemented in **C++** using the **Raylib** library. This project demonstrates core game development concepts including grid logic, collision detection, and multimedia integration.
 
