@@ -110,7 +110,10 @@ make
 <h2 id="author-contact">Author & Contact</h2>
 
 **Laiba Atiq**
-GitHub: [https://github.com/Laiba-Atiq](https://github.com/Laiba-Atiq)
+
+* GitHub: [github](https://github.com/Laiba-Atiq)
+* Email: [laibatiq@gmail.com](mailto:laibatiq@gmail.com)
+
 
 ---
 
